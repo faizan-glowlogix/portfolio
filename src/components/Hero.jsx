@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Faizan</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I Transforming Visions into Scalable Solutions.
+            I Transform Vision into Scalable Solutions.
 
               {/*<br className='sm:block hidden' />*/}
           </p>
