@@ -240,7 +240,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.vaxconcierge.com/",
   },
   {
     name: "Eflea Watch Mobile App",
@@ -266,7 +266,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://efleawatch.com/",
   },
   {
     name: "Derm on Demand",
@@ -292,7 +292,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://https://efleawatch.com/.com/",
   },
   {
     name: "Gospel Musician App (Shopify App)",
@@ -317,7 +317,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://gospelmusicians.com/",
   },
   {
     name: "PlatinumHR",
@@ -343,7 +343,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://platinumhr.com/",
   },
 
 ];
