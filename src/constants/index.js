@@ -272,7 +272,7 @@ const projects = [
   {
     name: "Convert.com",
     description:
-      "I worked on Convert.com for a year, developing Laravel-based microservices and optimizing backend services with DynamoDB, Redis, AWS Lambda, and SQS. I contributed to a complex hexagonal architecture, ensuring scalability, modularity, and high-performance A/B testing. My work included implementing features, refining data workflows, and enhancing system efficiency.",
+      "I worked on Convert.com, developing Laravel-based microservices and optimizing backend services with DynamoDB, Redis, AWS Lambda, and SQS. I contributed to a complex hexagonal architecture, ensuring scalability, modularity, and high-performance A/B testing. My work included implementing features, refining data workflows, and enhancing system efficiency.",
     tags: [
       {
         name: "laravel",
