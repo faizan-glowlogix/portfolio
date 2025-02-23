@@ -34,6 +34,11 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import tour27 from "./tour27.png";
+import vax from "./vax.png";
+import convert from "./convert.jpg";
+import platinumhr from "./platinumhr.png";
+import shopify1 from "./shopify.png";
+import eflea from "./eflea.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -73,4 +78,9 @@ export {
   glowlogix,
   brackets,
   tour27,
+  vax,
+  convert,
+  platinumhr,
+  shopify1,
+  eflea,
 };

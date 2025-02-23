@@ -23,7 +23,7 @@ import {
   tour27,
   jobit,
   tripguide,
-  threejs, pgql, aws, laravel, wordpress, glowlogix, brackets,
+  threejs, pgql, aws, laravel, wordpress, glowlogix, brackets, vax, convert, platinumhr, shopify1, eflea,
 } from "../assets";
 
 export const navLinks = [
@@ -123,7 +123,7 @@ const experiences = [
   {
     title: "Associate Software Engineer",
     company_name: "Image Solutions",
-    icon: starbucks,
+    icon: '',
     iconBg: "#383E56",
     date: "February 2019 – July 2019",
     points: [
@@ -210,7 +210,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "grpc",
         color: "green-text-gradient",
       },
       {
@@ -240,7 +240,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: vax,
     source_code_link: "https://www.vaxconcierge.com/",
   },
   {
@@ -266,34 +266,33 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: eflea,
     source_code_link: "https://efleawatch.com/",
   },
   {
-    name: "Derm on Demand",
+    name: "Convert.com",
     description:
-      "Created a telemedicine platform for dermatology consultations, streamlining patient-doctor\n" +
-        "interactions and handling 5,000 consultations monthly.",
+      "I worked on Convert.com for a year, developing Laravel-based microservices and optimizing backend services with DynamoDB, Redis, AWS Lambda, and SQS. I contributed to a complex hexagonal architecture, ensuring scalability, modularity, and high-performance A/B testing. My work included implementing features, refining data workflows, and enhancing system efficiency.",
     tags: [
       {
-        name: "nextjs",
+        name: "laravel",
         color: "blue-text-gradient",
       },
       {
-        name: "nestjs",
+        name: "mysql",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "dynamodb",
         color: "pink-text-gradient",
       },
       {
-        name: "grpc",
+        name: "nextjs",
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://https://efleawatch.com/.com/",
+    image: convert,
+    source_code_link: "https://www.convert.com/features/",
   },
   {
     name: "Gospel Musician App (Shopify App)",
@@ -317,7 +316,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: shopify1,
     source_code_link: "https://gospelmusicians.com/",
   },
   {
@@ -343,7 +342,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: platinumhr,
     source_code_link: "https://platinumhr.com/",
   },
 
