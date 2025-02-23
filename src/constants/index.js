@@ -20,6 +20,7 @@ import {
   tesla,
   shopify,
   carrent,
+  tour27,
   jobit,
   tripguide,
   threejs, pgql, aws, laravel, wordpress, glowlogix, brackets,
@@ -217,7 +218,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: tour27,
     source_code_link: "https://tour27.com/",
   },
   {
